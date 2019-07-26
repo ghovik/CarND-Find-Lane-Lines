@@ -9,3 +9,4 @@
 5. Highlight the lane lines by drawing red lines on the masked blank image.
 6. Get the output image with lines drawn on the original image.
 
+Check out output videos in folder 'test_videos_output'.
