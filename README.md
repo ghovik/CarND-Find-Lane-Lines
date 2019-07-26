@@ -9,4 +9,3 @@
 5. Highlight the lane lines by drawing red lines on the masked blank image.
 6. Get the output image with lines drawn on the original image.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OP3qhxZj3hs"></iframe>
